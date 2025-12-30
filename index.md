@@ -1,55 +1,71 @@
 Su Topla Kazan - Gizlilik Politikası
-Son Güncelleme: 09 Eylül 2025
+Son Güncelleme: 31 Aralık 2025
 
-"Su Topla Kazan" uygulamasına hoş geldiniz. Gizliliğiniz bizim için önemlidir. Bu gizlilik politikası, uygulamamızı kullandığınızda hangi bilgileri topladığımızı, bu bilgileri nasıl kullandığımızı ve koruduğumuzu açıklamaktadır.
+"Su Topla Kazan" uygulamasına hoş geldiniz. Gizliliğiniz ve güvenliğiniz bizim için en öncelikli konudur. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi verileri topladığımızı, bu verileri nasıl işlediğimizi, paylaştığımızı ve koruduğumuzu şeffaf bir şekilde açıklamaktadır.
 
 1. Topladığımız Bilgiler
-Uygulamamızı kullandığınızda sizden aşağıdaki bilgileri toplarız:
+Hizmetlerimizi size en iyi şekilde sunabilmek için aşağıdaki veri türlerini topluyor ve işliyoruz:
 
-Kişisel Bilgiler: Kayıt sırasında sağladığınız kullanıcı adı ve e-posta adresi gibi bilgiler.
+Kişisel Bilgiler: Kayıt işlemi sırasında sağladığınız Kullanıcı Adı, E-posta adresi ve şifre (şifrelenmiş olarak).
 
-Cihaz Bilgileri: Reklam sunumu ve analiz için cihazınızın anonimleştirilmiş reklam kimliği (IDFA, AAID).
+Finansal Bilgiler: Sadece ödeme talep ettiğinizde, ödemenin yapılabilmesi için gereken Ad-Soyad ve IBAN/Papara numarası gibi bilgiler.
 
-Kullanım Verileri: Uygulama içindeki etkileşimleriniz, tamamladığınız görevler, kazandığınız su miktarı, para çekme talepleriniz ve sohbet mesajlarınız gibi veriler.
+Cihaz ve Kimlik Bilgileri: Reklam sunumu, dolandırıcılığı önleme ve analiz amacıyla Cihaz Kimliği (Device ID), Reklam Kimliği (IDFA/AAID), IP adresi, cihaz modeli ve işletim sistemi sürümü.
 
-Finansal Bilgiler: Para çekme talebi oluşturduğunuzda belirttiğiniz IBAN ve ad soyad bilgileri.
+Kullanım ve Oyun Verileri:
+
+Toplam su miktarı, referans sayısı ve bakiye bilgileri.
+
+Oyun Aktiviteleri: Çarkıfelek çevirme sonuçları, Kazı Kazan (Scratch) kartı kullanımları, video izleme görevleri ve tamamlanan diğer görevler.
+
+Hile Koruması Verileri: Uygulamanın manipüle edilmesini önlemek amacıyla sunucu saati (NTP) ile cihaz saati arasındaki farklar ve görev tamamlamadaki zaman damgaları.
+
+İletişim Verileri: Uygulama içi sohbet (Genel Sohbet) özelliğini kullandığınızda gönderdiğiniz mesajlar.
+
+Görev Doğrulama Verileri: Belirli görevlerin (örneğin; "Siteyi Ziyaret Et", "Gmail Görevi") tamamlandığını doğrulamak için yapılan etkileşim verileri.
 
 2. Bilgileri Nasıl Kullanıyoruz?
-Topladığımız bilgileri şu amaçlarla kullanırız:
+Topladığımız verileri şu amaçlarla kullanırız:
 
-Hesabınızı oluşturmak, doğrulamak ve yönetmek.
+Hizmet Sunumu: Hesabınızı yönetmek, su toplama bakiyenizi güncellemek ve oyun (Çarkıfelek, Kazı Kazan vb.) sonuçlarını işlemek.
 
-Uygulama içi hizmetleri sunmak (su toplama, görev tamamlama, sıralama, referans sistemi vb.).
+Ödemeler: Para çekme taleplerinizi doğrulamak ve gerçekleştirmek.
 
-Size kişiselleştirilmiş reklamlar sunmak (Google AdMob aracılığıyla).
+Sıralama (Leaderboard): Uygulama içindeki rekabeti sağlamak amacıyla, kullanıcı adınızı ve toplam su miktarınızı "Sıralama" sayfasında diğer kullanıcılara göstermek.
 
-Uygulamamızın performansını analiz etmek ve hizmetlerimizi iyileştirmek (Firebase Analytics aracılığıyla).
+Reklam Gösterimi: Size ilgi alanlarınıza uygun kişiselleştirilmiş reklamlar sunmak (Google AdMob aracılığıyla).
 
-Para çekme taleplerinizi işlemek ve ödemeleri gerçekleştirmek.
+Güvenlik ve Hile Önleme: Uygulamanın kötüye kullanımını engellemek, sahte tıklamaları ve zaman manipülasyonlarını tespit etmek.
 
-Uygulama içi sohbet ortamının güvenliğini ve düzenini sağlamak.
+İletişim ve Bildirimler: Ödeme durumları, yeni görevler veya güncellemeler hakkında size bildirim (Push Notification) göndermek.
 
-Sizinle destek ve bilgilendirme amaçlı iletişim kurmak.
+3. Bilgi Paylaşımı ve Üçüncü Taraflar
+Kişisel verilerinizi asla izniniz olmadan üçüncü şahıslara satmayız. Ancak, hizmeti sürdürebilmek için aşağıdaki güvenilir servis sağlayıcılarla çalışıyoruz:
 
-3. Üçüncü Taraf Servisler
-Uygulamamız, işlevselliği sağlamak ve hizmet kalitesini artırmak için aşağıdaki üçüncü taraf servisleri kullanmaktadır:
+Google Firebase: Kimlik doğrulama (Auth), veritabanı (Firestore & Realtime Database), bulut fonksiyonları ve analitik hizmetleri için.
 
-Google Firebase: Kimlik doğrulama, veritabanı (Firestore), bulut fonksiyonları (Cloud Functions) ve analiz (Analytics) hizmetleri için kullanılır.
+Google AdMob: Uygulama içi reklam gösterimi için. Reklam kimliğiniz (Advertising ID) reklamların kişiselleştirilmesi amacıyla Google ile paylaşılabilir.
 
-Google AdMob: Uygulama içinde reklam göstermek için kullanılır.
+Bildirim Servisleri: Size anlık bildirim gönderebilmek için kullanılan altyapılar.
 
-Bu servislerin kendi gizlilik politikaları bulunmaktadır ve veri toplama pratikleri bu politikalara tabidir.
+4. Sıralama ve Görünürlük
+Uygulamamızda bir "Sıralama (Liderlik Tablosu)" özelliği bulunmaktadır. Bu özelliği kullandığınızda, Kullanıcı Adınız ve Toplam Su Miktarınız diğer kullanıcılar tarafından görüntülenebilir. E-posta adresiniz veya finansal bilgileriniz asla halka açık olarak paylaşılmaz.
 
-4. Veri Güvenliği
-Kişisel bilgilerinizin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri alıyoruz. Verileriniz, Firebase'in güvenli sunucularında şifrelenmiş olarak saklanmaktadır. Finansal bilgileriniz sadece ödeme işlemleri için kullanılır ve güvenli bir şekilde işlenir. Ancak internet üzerinden hiçbir aktarım yönteminin %100 güvenli olmadığını unutmamanız gerekir.
+5. Veri Güvenliği
+Verilerinizi korumak için endüstri standardı güvenlik önlemleri (SSL şifreleme, güvenli sunucular) kullanıyoruz. Sohbet mesajları ve kullanıcı verileri Firebase sunucularında güvenli bir şekilde saklanmaktadır. Ancak, internet üzerinden veri aktarımının %100 güvenli olacağının garantisi verilemez.
 
-5. Çocukların Gizliliği
-Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyoruz.
+6. Hesabın Silinmesi (Kullanıcı Hakları)
+Kullanıcılar, hesaplarını ve ilişkili verilerini silme hakkına sahiptir.
 
-6. Politika Değişiklikleri
-Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada veya uygulama içinde yayınlandığı andan itibaren geçerli olacaktır. Politikayı düzenli olarak gözden geçirmenizi öneririz.
+Uygulama İçinden: Profil sayfasındaki "Hesabımı Sil" veya "Ayarlar" menüsünü kullanarak silme talebi oluşturabilirsiniz.
 
-7. İletişim
-Gizlilik politikamız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen [sutoplakazan@outlook.com] adresi üzerinden bizimle iletişime geçin.
+E-posta Yoluyla: [sutoplakazan@outlook.com] adresine "Hesap Silme Talebi" konulu bir e-posta göndererek verilerinizin silinmesini talep edebilirsiniz. Hesap silme işlemi gerçekleştirildiğinde; topladığınız sular, bakiyeniz ve kişisel verileriniz sistemden kalıcı olarak silinir ve geri getirilemez.
 
+7. Çocukların Gizliliği
+Hizmetlerimiz 13 yaş (veya ülkenizdeki yasal rüşt yaşı) altındaki çocuklara yönelik değildir. Bilerek çocuklardan veri topladığımızı fark edersek, bu verileri derhal sileriz.
 
+8. Politika Değişiklikleri
+Bu politikayı, yeni özellikler ekledikçe güncelleyebiliriz. Önemli değişikliklerde uygulama içi bildirim yoluyla sizi haberdar edeceğiz. Uygulamayı kullanmaya devam etmeniz, değişiklikleri kabul ettiğiniz anlamına gelir.
+
+9. İletişim
+Gizlilik politikamız veya verilerinizle ilgili sorularınız için bizimle iletişime geçmekten çekinmeyin: E-posta: [sutoplakazan@outlook.com]
