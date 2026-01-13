@@ -1,5 +1,5 @@
 Su Topla Kazan - Gizlilik Politikası
-Son Güncelleme: 31 Aralık 2025
+Son Güncelleme: 13 Ocak 2026
 
 "Su Topla Kazan" uygulamasına hoş geldiniz. Gizliliğiniz ve güvenliğiniz bizim için en öncelikli konudur. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi verileri topladığımızı, bu verileri nasıl işlediğimizi, paylaştığımızı ve koruduğumuzu şeffaf bir şekilde açıklamaktadır.
 
