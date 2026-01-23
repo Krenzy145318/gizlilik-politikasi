@@ -1,71 +1,74 @@
-Su Topla Kazan - Gizlilik Politikası
-Son Güncelleme: 13 Ocak 2026
+# Su Topla Kazan - Gizlilik Politikası
+
+**Son Güncelleme:** 23 Ocak 2026
 
 "Su Topla Kazan" uygulamasına hoş geldiniz. Gizliliğiniz ve güvenliğiniz bizim için en öncelikli konudur. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi verileri topladığımızı, bu verileri nasıl işlediğimizi, paylaştığımızı ve koruduğumuzu şeffaf bir şekilde açıklamaktadır.
 
-1. Topladığımız Bilgiler
-Hizmetlerimizi size en iyi şekilde sunabilmek için aşağıdaki veri türlerini topluyor ve işliyoruz:
+## 1. Topladığımız Bilgiler
 
-Kişisel Bilgiler: Kayıt işlemi sırasında sağladığınız Kullanıcı Adı, E-posta adresi ve şifre (şifrelenmiş olarak).
+Hizmetlerimizi size en iyi şekilde sunabilmek ve sistem güvenliğini sağlamak için aşağıdaki veri türlerini topluyor ve işliyoruz:
 
-Finansal Bilgiler: Sadece ödeme talep ettiğinizde, ödemenin yapılabilmesi için gereken Ad-Soyad ve IBAN/Papara numarası gibi bilgiler.
+### A. Kişisel Bilgiler
+* Kayıt işlemi sırasında sağladığınız **Kullanıcı Adı**, **E-posta adresi** ve **şifre** (şifrelenmiş olarak saklanır).
 
-Cihaz ve Kimlik Bilgileri: Reklam sunumu, dolandırıcılığı önleme ve analiz amacıyla Cihaz Kimliği (Device ID), Reklam Kimliği (IDFA/AAID), IP adresi, cihaz modeli ve işletim sistemi sürümü.
+### B. Finansal Bilgiler
+* Sadece ödeme talep ettiğinizde, ödemenin yapılabilmesi için gereken **Ad-Soyad** ve **IBAN/Papara numarası** gibi bilgiler. Bu veriler sadece ödeme işleminde kullanılır.
 
-Kullanım ve Oyun Verileri:
+### C. Cihaz ve Kimlik Bilgileri
+* **Cihaz Kimliği (Android ID / Device ID):** Çoklu hesap açılmasını (Multi-Account) engellemek, sistem güvenliğini sağlamak ve hile koruması amacıyla cihazınızın benzersiz kimlik bilgisini işleriz.
+* **Reklam Kimliği (IDFA/AAID):** Google AdMob aracılığıyla size uygun reklamlar sunmak için kullanılır.
+* **Teknik Veriler:** IP adresi, cihaz modeli ve işletim sistemi sürümü.
 
-Toplam su miktarı, referans sayısı ve bakiye bilgileri.
+### D. Kullanım ve Oyun Verileri
+* **Oyun İçi Varlıklar:** Toplam su miktarı, referans sayısı ve güncel bakiye bilgileri.
+* **Aktiviteler:** Çarkıfelek çevirme sonuçları, Kazı Kazan kartı kullanımları, video izleme görevleri ve tamamlanan diğer görevler.
+* **Güvenlik Verileri:** Uygulamanın manipüle edilmesini önlemek amacıyla sunucu saati ile cihaz saati arasındaki farklar.
 
-Oyun Aktiviteleri: Çarkıfelek çevirme sonuçları, Kazı Kazan (Scratch) kartı kullanımları, video izleme görevleri ve tamamlanan diğer görevler.
+### E. İletişim Verileri (Sohbet)
+* Uygulama içi "Genel Sohbet" özelliğini kullandığınızda gönderdiğiniz mesajlar işlenir.
+* **Önemli Not:** Sohbet mesajlarınız, veri güvenliği ve gizlilik ilkemiz gereği sunucularımızda **en fazla 24 saat** saklanır ve bu sürenin sonunda sistem tarafından **otomatik olarak silinir.**
 
-Hile Koruması Verileri: Uygulamanın manipüle edilmesini önlemek amacıyla sunucu saati (NTP) ile cihaz saati arasındaki farklar ve görev tamamlamadaki zaman damgaları.
+## 2. Bilgileri Nasıl Kullanıyoruz?
 
-İletişim Verileri: Uygulama içi sohbet (Genel Sohbet) özelliğini kullandığınızda gönderdiğiniz mesajlar.
-
-Görev Doğrulama Verileri: Belirli görevlerin (örneğin; "Siteyi Ziyaret Et", "Gmail Görevi") tamamlandığını doğrulamak için yapılan etkileşim verileri.
-
-2. Bilgileri Nasıl Kullanıyoruz?
 Topladığımız verileri şu amaçlarla kullanırız:
+* **Hizmet Sunumu:** Hesabınızı yönetmek, su toplama bakiyenizi güncellemek ve oyun sonuçlarını işlemek.
+* **Ödemeler:** Para çekme taleplerinizi doğrulamak ve gerçekleştirmek.
+* **Sıralama (Leaderboard):** Uygulama içindeki rekabeti sağlamak amacıyla, kullanıcı adınızı ve toplam su miktarınızı "Sıralama" sayfasında diğer kullanıcılara göstermek.
+* **Reklam Gösterimi:** Size ilgi alanlarınıza uygun kişiselleştirilmiş reklamlar sunmak (Google AdMob aracılığıyla).
+* **Güvenlik ve Hile Önleme:** Aynı cihazdan birden fazla hesap açılmasını engellemek, sahte tıklamaları tespit etmek.
+* **İletişim:** Ödeme durumları veya güncellemeler hakkında bildirim (Push Notification) göndermek.
 
-Hizmet Sunumu: Hesabınızı yönetmek, su toplama bakiyenizi güncellemek ve oyun (Çarkıfelek, Kazı Kazan vb.) sonuçlarını işlemek.
+## 3. Bilgi Paylaşımı ve Üçüncü Taraflar
 
-Ödemeler: Para çekme taleplerinizi doğrulamak ve gerçekleştirmek.
-
-Sıralama (Leaderboard): Uygulama içindeki rekabeti sağlamak amacıyla, kullanıcı adınızı ve toplam su miktarınızı "Sıralama" sayfasında diğer kullanıcılara göstermek.
-
-Reklam Gösterimi: Size ilgi alanlarınıza uygun kişiselleştirilmiş reklamlar sunmak (Google AdMob aracılığıyla).
-
-Güvenlik ve Hile Önleme: Uygulamanın kötüye kullanımını engellemek, sahte tıklamaları ve zaman manipülasyonlarını tespit etmek.
-
-İletişim ve Bildirimler: Ödeme durumları, yeni görevler veya güncellemeler hakkında size bildirim (Push Notification) göndermek.
-
-3. Bilgi Paylaşımı ve Üçüncü Taraflar
 Kişisel verilerinizi asla izniniz olmadan üçüncü şahıslara satmayız. Ancak, hizmeti sürdürebilmek için aşağıdaki güvenilir servis sağlayıcılarla çalışıyoruz:
 
-Google Firebase: Kimlik doğrulama (Auth), veritabanı (Firestore & Realtime Database), bulut fonksiyonları ve analitik hizmetleri için.
+* **Google Firebase:** Kimlik doğrulama, veritabanı, bulut fonksiyonları ve güvenli veri saklama altyapısı için.
+* **Google AdMob:** Uygulama içi reklam gösterimi için. Reklam kimliğiniz, reklamların kişiselleştirilmesi amacıyla Google ile paylaşılabilir.
 
-Google AdMob: Uygulama içi reklam gösterimi için. Reklam kimliğiniz (Advertising ID) reklamların kişiselleştirilmesi amacıyla Google ile paylaşılabilir.
+## 4. Veri Güvenliği
 
-Bildirim Servisleri: Size anlık bildirim gönderebilmek için kullanılan altyapılar.
+Verilerinizi korumak için endüstri standardı güvenlik önlemleri (SSL şifreleme, güvenli sunucular) kullanıyoruz. Ancak, internet üzerinden veri aktarımının %100 güvenli olacağının garantisi verilemez.
 
-4. Sıralama ve Görünürlük
-Uygulamamızda bir "Sıralama (Liderlik Tablosu)" özelliği bulunmaktadır. Bu özelliği kullandığınızda, Kullanıcı Adınız ve Toplam Su Miktarınız diğer kullanıcılar tarafından görüntülenebilir. E-posta adresiniz veya finansal bilgileriniz asla halka açık olarak paylaşılmaz.
+## 5. Hesap Silme (Kullanıcı Hakları)
 
-5. Veri Güvenliği
-Verilerinizi korumak için endüstri standardı güvenlik önlemleri (SSL şifreleme, güvenli sunucular) kullanıyoruz. Sohbet mesajları ve kullanıcı verileri Firebase sunucularında güvenli bir şekilde saklanmaktadır. Ancak, internet üzerinden veri aktarımının %100 güvenli olacağının garantisi verilemez.
+Kullanıcılar, diledikleri zaman hesaplarını ve ilişkili tüm verilerini kalıcı olarak silme hakkına sahiptir. Bu işlem geri alınamaz.
 
-6. Hesabın Silinmesi (Kullanıcı Hakları)
-Kullanıcılar, hesaplarını ve ilişkili verilerini silme hakkına sahiptir.
+**Hesabınızı şu iki yöntemle silebilirsiniz:**
 
-Uygulama İçinden: Profil sayfasındaki "Hesabımı Sil" veya "Ayarlar" menüsünü kullanarak silme talebi oluşturabilirsiniz.
+1.  **Uygulama İçinden (Anında):**
+    * Uygulamada **Profil** veya **Ayarlar** menüsüne gidin.
+    * **"Hesabımı Sil"** seçeneğine tıklayın ve onayı verin.
+    * Bu işlem yapıldığında; topladığınız sular, bakiyeniz, cihaz eşleşmeniz ve kişisel verileriniz veritabanımızdan anında ve kalıcı olarak silinir.
 
-E-posta Yoluyla: [sutoplakazan@outlook.com] adresine "Hesap Silme Talebi" konulu bir e-posta göndererek verilerinizin silinmesini talep edebilirsiniz. Hesap silme işlemi gerçekleştirildiğinde; topladığınız sular, bakiyeniz ve kişisel verileriniz sistemden kalıcı olarak silinir ve geri getirilemez.
+2.  **E-posta Yoluyla (Talep Üzerine):**
+    * Uygulamaya erişiminiz yoksa, kayıtlı e-posta adresinizden **[sutoplakazan@outlook.com]** adresine "Hesap Silme Talebi" konulu bir e-posta göndererek verilerinizin silinmesini talep edebilirsiniz. Talebiniz en geç 7 iş günü içinde gerçekleştirilir.
 
-7. Çocukların Gizliliği
+## 6. Çocukların Gizliliği
+
 Hizmetlerimiz 13 yaş (veya ülkenizdeki yasal rüşt yaşı) altındaki çocuklara yönelik değildir. Bilerek çocuklardan veri topladığımızı fark edersek, bu verileri derhal sileriz.
 
-8. Politika Değişiklikleri
-Bu politikayı, yeni özellikler ekledikçe güncelleyebiliriz. Önemli değişikliklerde uygulama içi bildirim yoluyla sizi haberdar edeceğiz. Uygulamayı kullanmaya devam etmeniz, değişiklikleri kabul ettiğiniz anlamına gelir.
+## 7. İletişim
 
-9. İletişim
-Gizlilik politikamız veya verilerinizle ilgili sorularınız için bizimle iletişime geçmekten çekinmeyin: E-posta: [sutoplakazan@outlook.com]
+Gizlilik politikamız veya verilerinizle ilgili sorularınız için bizimle iletişime geçmekten çekinmeyin:
+
+**E-posta:** [sutoplakazan@outlook.com]
